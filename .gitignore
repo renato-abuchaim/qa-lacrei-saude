@@ -1,0 +1,13 @@
+# Dependências
+node_modules/
+
+# Logs
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Cypress (quando chegar na automação)
+cypress/videos/
+cypress/screenshots/
